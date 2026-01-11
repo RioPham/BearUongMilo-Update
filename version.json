@@ -1,7 +1,7 @@
 {
-    "latest_version": "1.6.2",
+    "latest_version": "1.6.3",
     "release_date": "2026-01-12",
-    "download_url": "LINK_TAI_FILE_ZIP_O_BUOC_3",
+    "download_url": "https://github.com/RioPham/BearUongMilo-Update/releases/download/1.6.3/BearUongMilo_1.6.3.rar",
     "changelog": [
         "- Sửa lỗi crash khi không tìm thấy ADB.",
         "- Thêm chức năng tự động uống Milo."
